@@ -1,2 +1,2 @@
-# Vue-Repository
+# Vue-Counter-App
 Created with CodeSandbox
